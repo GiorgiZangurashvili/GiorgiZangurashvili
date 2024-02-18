@@ -5,8 +5,8 @@ I'm driven by the passion for creation and innovation, fueled by my curiosity an
 - 🎓 Senior Computer Science Student at Free University of Tbilisi
 - 📘 Recently completed a [Omedia](https://www.linkedin.com/company/omedia-dev/)'s Java Spring Bootcamp
 - 👨‍💻 Skilled in Java, Spring Boot, Hibernate, and RESTful APIs
-- 💼 Actively seeking internships or junior positions in Java Spring Backend Development
-- 🚀 Open to collaborating on projects that push the boundaries of back-end development
+- 💼 Actively seeking internships or junior positions in Java Spring Back-end Development
+- 🚀 Open to collaborating on projects that push the boundaries of Back-end Development
 
 
 ### 📫 How to Reach Me
