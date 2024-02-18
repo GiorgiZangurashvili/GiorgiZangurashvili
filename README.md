@@ -2,4 +2,6 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently Senior Computer Science Student at Free University of Tbilisi
 - 🚀 Open to collaborating on projects that push the boundaries of back-end development
-- 📫 How to reach me: https://www.linkedin.com/in/giorgi-zangurashvili-939311252/
+- 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/giorgi-zangurashvili-939311252/
+  - Email: gzang20@freeuni.edu.ge
