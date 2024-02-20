@@ -2,7 +2,7 @@
 I'm driven by the passion for creation and innovation, fueled by my curiosity and problem-solving skills. Whether working solo or as part of a team, I thrive on tackling challenges with keen observation, research, and creativity. Collaborating with like-minded individuals amplifies our ability to achieve ambitious goals and scale new heights together.
 
 ### 🌱 About Me
-- 🎓 Senior Computer Science Student at Free University of Tbilisi
+- 🎓 Senior Mathematics and Computer Science Student at Free University of Tbilisi
 - 📘 Recently completed a [Omedia](https://www.linkedin.com/company/omedia-dev/)'s Java Spring Bootcamp
 - 👨‍💻 Skilled in Java, Spring Boot, Hibernate, and RESTful APIs
 - 💼 Actively seeking internships or junior positions in Java Spring Back-end Development
