@@ -5,8 +5,7 @@ I'm driven by the passion for creation and innovation, fueled by my curiosity an
 - 🎓 Senior Mathematics and Computer Science Student at Free University of Tbilisi
 - 📘 Recently completed a [Omedia](https://www.linkedin.com/company/omedia-dev/)'s Java Spring Bootcamp
 - 👨‍💻 Skilled in Java, Spring Boot, Hibernate, and RESTful APIs
-- 💼 Currently a Software Engineer Intern at Optimo Group
-- 🚀 Open to face new challenges, will consider Junior Software Engineer offers
+- 💼 Currently a Software Engineer at [Optimo Group](https://www.linkedin.com/company/optimogroupio/mycompany/)
 
 
 ### 📫 How to Reach Me
